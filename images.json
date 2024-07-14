@@ -1,0 +1,10 @@
+[
+    { "src": "image1.jpg", "elo": 1000 },
+    { "src": "image2.jpg", "elo": 1000 },
+    { "src": "image3.jpg", "elo": 1000 },
+    { "src": "image4.jpg", "elo": 1000 },
+    { "src": "image5.jpg", "elo": 1000 },
+    { "src": "image6.jpg", "elo": 1000 },
+    { "src": "image7.jpg", "elo": 1000 },
+    { "src": "image8.jpg", "elo": 1000 }
+]

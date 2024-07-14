@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+div#title {
+    background: #a32e2e;
+    height: 70px;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 0.7cm;
+}
+
+#image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    position: relative;
+}
+
+#image-container img {
+    width: 45%;
+    cursor: pointer;
+}
+
+.or-text {
+    font-size: 24px;
+    font-weight: bold;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background: #ffffff;
+    font-size: 0.4cm;
+    color: blue;
+}
